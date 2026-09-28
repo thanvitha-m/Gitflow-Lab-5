@@ -1,8 +1,9 @@
-# Gitflow Lab 5 - Develop Version
+# Gitflow Lab 5
 
 This repository demonstrates Gitflow using Git, GitHub, and VS Code.
 
 ## Topics
+
 - Git repository
 - Branches
 - Commits
